@@ -1,14 +1,14 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Windsky",
+		"description": "Windsky 的个人博客，记录个人学以及生活。最喜欢爱莉啦！",
+		"username": "Stay"
 	},
 	"theme": {
-		"colorBrand": "#de4331",
+		"colorBrand": "#eb1919",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
-		"colorBrandSecondary": "#FCC841",
+		"colorBrandSecondary": "#fcfc41",
 		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
 		"colorCard": "#ffffff66",
@@ -30,43 +30,65 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "url-1767423374599",
+			"url": "https://img.windsky.top/7bd91e60f8a9c574f8f55d4ed3d816f3_2244111316135385270.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "url-1767423374599",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1767423403237",
+			"url": "https://img.windsky.top/7d8cedc1384941e79c2f547602bcfa0d_7826663225499711123.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1767423403237",
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
+			"type": "qq",
+			"value": "/images/social-buttons/01c6caff71fc65e3.jpg",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
+			"type": "email",
+			"value": "rain1234567892022@126.com",
 			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "windsky@mail.windsky.top",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1767423260831",
+			"type": "link",
+			"value": "https://www.windtravel.online",
+			"label": "WTS服务器",
+			"order": 4
+		},
+		{
+			"id": "button-1767423301635",
+			"type": "github",
+			"value": "https://github.com/windsky48",
+			"label": "",
+			"order": 5
 		}
 	],
-	"clockShowSeconds": false,
-	"summaryInContent": false,
+	"clockShowSeconds": true,
+	"summaryInContent": true,
 	"isCachePem": false,
-	"hideEditButton": false,
+	"hideEditButton": true,
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
