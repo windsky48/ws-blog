@@ -40,7 +40,7 @@
 			"url": "https://img.windsky.top/7d8cedc1384941e79c2f547602bcfa0d_7826663225499711123.png"
 		}
 	],
-	"currentArtImageId": "url-1767424077814",
+	"currentArtImageId": "url-1767423374599",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -91,6 +91,27 @@
 			"value": "https://github.com/windsky48",
 			"label": "",
 			"order": 5
+		},
+		{
+			"id": "button-1767523400977",
+			"type": "link",
+			"value": "https://wsblog-cn.windsky.top/",
+			"label": "大陆访问",
+			"order": 6
+		},
+		{
+			"id": "button-1767523426481",
+			"type": "link",
+			"value": "https://wsblog.windsky.top/",
+			"label": "全球访问",
+			"order": 7
+		},
+		{
+			"id": "button-1767523472682",
+			"type": "link",
+			"value": "https://wsblogs.windsky.top/",
+			"label": "CF访问",
+			"order": 8
 		}
 	],
 	"clockShowSeconds": true,
