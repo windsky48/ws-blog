@@ -29,15 +29,15 @@
 	{
 		"name": "Cloudflare CDN 文件加速下载",
 		"year": 2025,
-		"description": "自己随便写的一个文件加速网站，基于Cloudflare CDN。使用可能不是很好，见谅。",
+		"description": "自己随便写的一个文件加速网站，基于 Cloudflare CDN 和 Cloudflare Worker 。使用体验可能不是很好，见谅。",
 		"image": "/images/net-lg.png",
 		"url": "https://dl.cf.windsky.top/",
 		"tags": [
-			"Minecraft",
-			"MC",
-			"Server",
-			"游戏"
+			"Cloudflare",
+			"Website",
+			"CF Worker"
+			"文件加速"
 		],
 		"链接": "https://dl.cf.windsky.top/"
-	},
+	}
 ]
