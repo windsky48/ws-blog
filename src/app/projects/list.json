@@ -3,7 +3,7 @@
 		"name": "WS-Blog个人博客",
 		"year": 2026,
 		"description": "就是这个博客网站。用的是Suni的博客模板。",
-		"image": "/images/vue-kit.webp",
+		"image": "/images/wgSmzZPac93Qw36.thumb.1000_0.jpg",
 		"url": "https://wsblogs.windsky.top/",
 		"tags": [
 			"Blog"
@@ -15,7 +15,7 @@
 		"name": "WTS服务器",
 		"year": 2025,
 		"description": "自己开的我的世界服务器。WTS全称 “Wind's Travel Server”，也称“Wind's Journey Server（WJS）”",
-		"image": "/images/vue-kit.webp",
+		"image": "/images/8gSM7nMgigo0DxL.jpg",
 		"url": "https://www.windtravel.online/",
 		"tags": [
 			"Minecraft",
@@ -30,7 +30,7 @@
 		"name": "Cloudflare CDN 文件加速下载",
 		"year": 2025,
 		"description": "自己随便写的一个文件加速网站，基于Cloudflare CDN。使用可能不是很好，见谅。",
-		"image": "/images/vue-kit.webp",
+		"image": "/images/net-lg.png",
 		"url": "https://dl.cf.windsky.top/",
 		"tags": [
 			"Minecraft",
