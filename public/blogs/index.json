@@ -1,3 +1,17 @@
 [
-
+  {
+    "slug": "happy-new-year",
+    "title": "新年快乐！元旦快乐！",
+    "tags": [
+      "跨年",
+      "元旦",
+      "新年",
+      "2026"
+    ],
+    "date": "2026-01-01T00:00",
+    "summary": "新年快乐！",
+    "cover": "/blogs/happy-new-year/5b3cde819e5fb2b5.webp",
+    "hidden": false,
+    "category": ""
+  }
 ]
