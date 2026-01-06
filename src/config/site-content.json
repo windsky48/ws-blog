@@ -103,7 +103,7 @@
 			"id": "button-1767523426481",
 			"type": "link",
 			"value": "https://wsblog.windsky.top/",
-			"label": "全球访问",
+			"label": "大陆备用",
 			"order": 7
 		},
 		{
@@ -112,6 +112,13 @@
 			"value": "https://wsblogs.windsky.top/",
 			"label": "CF访问",
 			"order": 8
+		},
+		{
+			"id": "button-1767696497299",
+			"type": "link",
+			"value": "https://wsblogz.windsky.top",
+			"label": "直连",
+			"order": 9
 		}
 	],
 	"clockShowSeconds": true,
